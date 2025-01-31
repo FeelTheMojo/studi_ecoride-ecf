@@ -28,7 +28,7 @@
                 <input type="email" placeholder="email">
                 <label for=""></label>
                 <input type="textarea" placeholder="Tapez votre message ici">
-                <input type="submit" name="" id="" value="S'inscrire">
+                <input type="submit" name="" id="" value="Envoyer votre message">
               </div>
             </div>
           </div>
