@@ -32,6 +32,7 @@
   </form>
 </div>
 
+<section class="background-color">
 <div class="info-group">
 
 <div class="group">
@@ -51,9 +52,10 @@
   <h3>Un trajet en toute simplicité </h3>
   <p>Réserve en quelques clics ton trajet avec les membres de la communauté</p>
 </div>
-
 </div>
+</section>
 
+<section class="background-color">
 <div class="presentation-text">
   <h2>Présentation EcoRide</h2>
   <p>EcoRide est une startup française innovante spécialisée dans le covoiturage écologique. Notre mission est de révolutionner les déplacements
@@ -64,5 +66,5 @@
       impact environnemental qu'à celles recherchant 
       une alternative économique pour leurs trajets.</p>
       <img src="https://img.freepik.com/vecteurs-libre/groupe-personnes-voiture-electrique_53876-64654.jpg?t=st=1736594427~exp=1736598027~hmac=61de44bb4690a44ebd6cfdd8ccfc69e45428762da269403925a3a4624c2ba440&w=1380" alt="ecologic-car">
-
+  </section>
 </div>

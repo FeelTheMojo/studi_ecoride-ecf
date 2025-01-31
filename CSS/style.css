@@ -19,6 +19,11 @@ header{
   background-color: white;
 
 }
+
+.background-color{
+  background-color: rgba(213, 231, 255, 1);
+  height: 600px;
+}
 .navbar{
   display: flex;
   align-items: center;
